@@ -20,6 +20,7 @@ public class FirstProgram {
             System.out.println("FAIL");
         else if (marks==35)
             System.out.println("PASS");
+
         else if (marks>35 && marks<70)
             System.out.println("THIRD CLASS");
         else if (marks>=70 && marks <85)
