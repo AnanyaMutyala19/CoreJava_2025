@@ -11,6 +11,7 @@ public class COnvertUppercaseToLowerCase {
             } else if (Character.isLowerCase(c)) {
                 sb.append(Character.toUpperCase(c));
             }
+
             else
                 sb.append(c);
         }
